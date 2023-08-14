@@ -1,0 +1,28 @@
+﻿Installing assembly 'C:\Users\abdul\source\repos\LogoObjectsAPI\LogoObjectsAPI\bin\Debug\LogoObjectsAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abdul\source\repos\LogoObjectsAPI\LogoObjectsAPI\bin\Debug\LogoObjectsAPI.InstallLog
+   assemblypath = C:\Users\abdul\source\repos\LogoObjectsAPI\LogoObjectsAPI\bin\Debug\LogoObjectsAPI.exe
+Installing service LogoObjectsAPI...
+Service LogoObjectsAPI has been successfully installed.
+Creating EventLog source LogoObjectsAPI in log Application...
+Committing assembly 'C:\Users\abdul\source\repos\LogoObjectsAPI\LogoObjectsAPI\bin\Debug\LogoObjectsAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abdul\source\repos\LogoObjectsAPI\LogoObjectsAPI\bin\Debug\LogoObjectsAPI.InstallLog
+   assemblypath = C:\Users\abdul\source\repos\LogoObjectsAPI\LogoObjectsAPI\bin\Debug\LogoObjectsAPI.exe
+'C:\LogoObjectsAPI\LogoObjectsAPI\bin\Debug\LogoObjectsAPI.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\LogoObjectsAPI\LogoObjectsAPI\bin\Debug\LogoObjectsAPI.InstallLog
+   assemblypath = C:\LogoObjectsAPI\LogoObjectsAPI\bin\Debug\LogoObjectsAPI.exe
+   logtoconsole = 
+LogoObjectsAPI hizmeti yükleniyor...
+LogoObjectsAPI hizmeti başarıyla yüklendi.
+Application günlüğünde LogoObjectsAPI EventLog kaynağı oluşturuluyor...
+'C:\LogoObjectsAPI\LogoObjectsAPI\bin\Debug\LogoObjectsAPI.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\LogoObjectsAPI\LogoObjectsAPI\bin\Debug\LogoObjectsAPI.InstallLog
+   assemblypath = C:\LogoObjectsAPI\LogoObjectsAPI\bin\Debug\LogoObjectsAPI.exe
+   logtoconsole = 
